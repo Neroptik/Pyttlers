@@ -1,4 +1,4 @@
 Pyttlers
 ========
 
-TSOAutomation
+Python client for TSO automation
